@@ -1830,12 +1830,6 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 [![Star History Chart](https://star-history.dera.page/svg?repos=bst04/cybersources&type=Date)](https://star-history.dera.page/#bst04/cybersources&Date)
 
 
-## [↑](#-content) 💬 Collaborate
-
-- If you have some tool, resource or course that you want to share, [contact me](https://github.com/bst04) or create an **pull request** or an **Issue**.
-
-![](https://contrib.rocks/image?repo=bst04/cybersources)
-
 ## [↑](#-content) 🪪 Credits
 
 - [awesome-osint](https://github.com/jivoi/awesome-osint)
@@ -1852,4 +1846,4 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 
 <meta name="keywords" content="cybersecurity, security news, threat intelligence, security resources, cybersecurity training, security research, security compliance, security events, infosec, cyber threat intelligence, security tools, security education, security awareness, penetration testing, vulnerability assessment, security certifications, security conferences, awesome list, cybersources">
 
-<meta name="description" content="Cybersources is a currated list of all cybersecurity tools and resources.">
+<meta name="description" content="Cybersecurity Tools is a currated list of all cybersecurity tools and resources.">
